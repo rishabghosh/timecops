@@ -1,0 +1,52 @@
+{
+  "Kroger Merchandising Technology": {
+    "headCount": 49,
+    "actualHoursWorked": 1504,
+    "missingTimesheets": 6
+  },
+  "TW Time Off": {
+    "headCount": 31,
+    "actualHoursWorked": 328,
+    "missingTimesheets": 0
+  },
+  "UIDAI": {
+    "headCount": 17,
+    "actualHoursWorked": 483,
+    "missingTimesheets": 5
+  },
+  "Falabella": {
+    "headCount": 33,
+    "actualHoursWorked": 822.5,
+    "missingTimesheets": 10
+  },
+  "TW Investment": {
+    "headCount": 2,
+    "actualHoursWorked": 20,
+    "missingTimesheets": 0
+  },
+  "Kotak Securties": {
+    "headCount": 1,
+    "actualHoursWorked": 40,
+    "missingTimesheets": 0
+  },
+  "Tesco - IN": {
+    "headCount": 20,
+    "actualHoursWorked": 512,
+    "missingTimesheets": 6
+  },
+  "TW TechOps": {
+    "headCount": 2,
+    "actualHoursWorked": 80,
+    "missingTimesheets": 0
+  },
+  "TW Core Business": {
+    "headCount": 13,
+    "actualHoursWorked": 504,
+    "missingTimesheets": 0
+  },
+  "TW Demand": {
+    "headCount": 1,
+    "actualHoursWorked": 40,
+    "missingTimesheets": 0
+  }
+}
