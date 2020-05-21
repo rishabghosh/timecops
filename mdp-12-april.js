@@ -9,6 +9,10 @@ const getCustomers = function (timesheets) {
   return timesheets.map((ts) => ts.customer_name);
 };
 
+const getNameVsCustomer  = function(){
+    
+}
+
 const isSameAC = function (e, customer) {
   return e.account_name === customer;
 };

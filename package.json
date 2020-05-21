@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "json2csv": "^5.0.0"
+    "json2csv": "^5.0.0",
+    "papaparse": "^5.2.0"
   }
 }
